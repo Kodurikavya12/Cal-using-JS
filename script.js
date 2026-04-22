@@ -1,4 +1,4 @@
-console.log(1);
+
 const add=() => {
     event.preventDefault()
     let val1=Number(document.getElementById("value1").value)
